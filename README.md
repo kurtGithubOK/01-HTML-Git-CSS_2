@@ -12,8 +12,8 @@
 ## Screenshots of original and refactored pages:  
 Original | Refactored
 ---------|---------
-<img src="readmeImages/original-top.png" alt="Top part of original page" width="500" height="430" />  | <img src="readmeImages/refactored-top.png" alt="Top part of refactored page" width="500" height="430" />
-<img src="readmeImages/original-bottom.png" alt="Bottom part of original page" width="500" height="430" />  | <img src="readmeImages/refactored-bottom.png" alt="Top part of original page" width="500" height="430" />
+<img src="./readmeImages/originalTop.png" alt="Top part of original page" width="500" height="430" />  | <img src="./readmeImages/refactoredTop.png" alt="Top part of refactored page" width="500" height="430" />
+<img src="./readmeImages/originalBottom.png" alt="Bottom part of original page" width="500" height="430" />  | <img src="./readmeImages/refactoredBottom.png" alt="Top part of original page" width="500" height="430" />
 <br/><br/>
 
 ## Technologies used are HTML5 for the index.html page and an external CSS file for styling.
